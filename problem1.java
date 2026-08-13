@@ -1,4 +1,4 @@
-public class Problem1 {
+public class problem1 {
     public static void main(String[] args) {
         double result = ((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5));
 
